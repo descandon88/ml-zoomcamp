@@ -1,0 +1,6 @@
+jupyter
+pandas
+sqlalchemy
+openpyxl
+pyodbc
+alchemlyb
