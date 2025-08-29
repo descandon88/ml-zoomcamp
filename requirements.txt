@@ -1,0 +1,34 @@
+# Core Python
+numpy
+pandas
+scipy
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+catboost
+
+# Deep Learning
+tensorflow
+# torch
+# torchvision
+# torchaudio
+
+# Data Visualization
+matplotlib
+seaborn
+plotly
+
+# Jupyter
+jupyter
+notebook
+jupyterlab
+ipykernel
+
+# Deployment
+# mlflow
+# bentoml
+# pydantic
+# fastapi
+# uvicorn 

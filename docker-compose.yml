@@ -1,0 +1,13 @@
+version: "3.9"
+
+services:
+  jupyter:
+    build: .
+    container_name: ml-zoomcamp
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./work:/home/jovyan/work
+    environment:
+      - JUPYTER_TOKEN=
+    command: start-notebook.sh --NotebookApp.token='' --NotebookApp.password=''
