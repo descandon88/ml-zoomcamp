@@ -1,7 +1,8 @@
 # Core Python
 numpy
 pandas
-scipy
+scipy}
+uv
 
 # Machine Learning
 scikit-learn

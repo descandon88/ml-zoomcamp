@@ -11,3 +11,5 @@ client = {
 
 response = requests.post(url, json=client)
 print(response.json())
+
+## Response 0.5340417283801275
