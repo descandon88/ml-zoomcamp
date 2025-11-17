@@ -1,0 +1,14 @@
+jupyterlab
+notebook
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+xgboost
+lightgbm
+pyarrow
+fastparquet
+requests
+python-dotenv
+tqdm
